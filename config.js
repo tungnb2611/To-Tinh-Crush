@@ -4,7 +4,7 @@ const CONFIG = {
     그러나 우체부가 나를 도울 수 없습니다, 그는 말했다 : “그것은 너무 큰 아들입니다”.`,
     btnIntro: 'hihi',
     title: 'Hết Giận Anh Nhé Em Yêu ',
-    desc: 'Cô gái anh yêu cái nhìn đầu tiên ',
+    desc: 'Cô gái anh yêu từ cái nhìn đầu tiên  <3',
     btnYes: 'Yêu Anh <33',
     btnNo: 'Không, Nhé Thằng kia  :3',
     question:'Gửi cho anh bao nụ hôn thì ghi vào bên dưới nhé <3',
